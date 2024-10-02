@@ -28,10 +28,4 @@ To run this project, the following libraries and dependencies are required:
 - trl
 - huggingface_hub
 
-You can find the complete list of dependencies in the `requirements.txt` file.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/bilingual-training-smol-lm.git
-   cd bilingual-training-smol-lm
